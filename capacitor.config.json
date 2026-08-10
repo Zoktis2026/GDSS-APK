@@ -1,0 +1,23 @@
+{
+  "appId": "com.gdssliman.rms",
+  "appName": "GDSS Liman Katagum RMS",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://script.google.com/macros/s/AKfycbwg_AKBenMNORvaoHkRshXEgsKsG4nFml0C4thvl7KiYF_k4RdBHyK9tClDG8i4BHsONg/exec",
+    "androidScheme": "https",
+    "cleartext": false,
+    "allowNavigation": [
+      "script.google.com",
+      "script.googleusercontent.com",
+      "*.script.googleusercontent.com",
+      "*.googleusercontent.com",
+      "*.googleapis.com",
+      "accounts.google.com",
+      "*.google.com"
+    ]
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
